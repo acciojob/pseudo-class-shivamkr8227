@@ -1,6 +1,6 @@
 div:first-child{
 	display:block;
-	color:red;
+	color:rgb(255,0,0);
 	font-size:bold;
 }
 div:last-child{
