@@ -1,7 +1,15 @@
-/*  your css code here. If applicable */
-.before{
-	color:rgb(255,0,0);
+p:first-child{
+	display:block;
+	color:red;
+	font-size:bold;
 }
-.after{
-	color:rgb(255,0,0);
+p:last-child{
+	color:red;
+	display:block;
+	font-size:bold;
+}
+p:nth:child(2)
+{
+	display:block;
+
 }
