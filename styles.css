@@ -1,14 +1,14 @@
-p:first-child{
+div:first-child{
 	display:block;
 	color:red;
 	font-size:bold;
 }
-p:last-child{
+div:last-child{
 	color:red;
 	display:block;
 	font-size:bold;
 }
-p:nth:child(2)
+div:nth:child(2)
 {
 	display:block;
 
